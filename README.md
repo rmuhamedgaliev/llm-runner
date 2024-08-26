@@ -11,5 +11,7 @@ How to run:
 - configure you setup in [docker-compose.yml](./docker-compose.yml)
 - up containers
 
+Base UI:
+
 - localhost:8080 - localai ui
 - localhost:3001 - anythingllm ui
