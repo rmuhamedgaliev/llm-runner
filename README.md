@@ -13,5 +13,5 @@ How to run:
 
 Base UI:
 
-- localhost:8080 - localai ui
-- localhost:3001 - anythingllm ui
+- http://localhost:8080 - localai ui
+- http://localhost:3001 - anythingllm ui
